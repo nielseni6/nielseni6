@@ -1,7 +1,6 @@
 ### I am an eXplainable Artificial Intelligence (XAI) researcher. My goal is to make AI interpretable to humans.
 
-![Trainset_images](https://github.com/nielseni6/nielseni6/assets/36169018/80a8066c-3901-48e0-a13a-b01f0cc3ea66)
-![FV_results](https://github.com/nielseni6/nielseni6/assets/36169018/b31a799f-f47a-4aee-b435-cd8c764ffd06)
+![Trainset_images](https://github.com/nielseni6/nielseni6/assets/36169018/80a8066c-3901-48e0-a13a-b01f0cc3ea66) ![FV_results](https://github.com/nielseni6/nielseni6/assets/36169018/b31a799f-f47a-4aee-b435-cd8c764ffd06)
 
 
 <!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nielseni6&count_private=true&theme=tokyonight&showicons=true)]()
