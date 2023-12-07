@@ -1,6 +1,6 @@
-### I am an eXplainable Artificial Intelligence (XAI) researcher. 
+<!--### I am an eXplainable Artificial Intelligence (XAI) researcher. 
 My goal is to improve trust and make AI interpretable to humans.
-
+-->
 
 <img src="https://github.com/nielseni6/nielseni6/assets/36169018/80a8066c-3901-48e0-a13a-b01f0cc3ea66" width="510" /> <img src="https://github.com/nielseni6/nielseni6/assets/36169018/b31a799f-f47a-4aee-b435-cd8c764ffd06" width="410" />
 <!--
