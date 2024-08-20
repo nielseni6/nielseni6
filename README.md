@@ -1,3 +1,7 @@
+I am a machine learning researcher and engineer with over 5 years of experience implementing and training state-of-the-art machine learning models. My particular expertise is in the field of eXplainable Artificial Intelligence (XAI), with an emphasis on computer vision. 
+
+My research endeavors are driven by a commitment to enhancing the trustworthiness and interpretability of AI models. This focus is underpinned by my vision to facilitate the deployment of these models in real-world scenarios. By developing visually intuitive explanations of complex machine learning models, my goal is to make AI interpretable and trustworthy enough for use in practical applications.
+
 <!--### I am an eXplainable Artificial Intelligence (XAI) researcher. 
 My goal is to improve trust and make AI interpretable to humans.
 
