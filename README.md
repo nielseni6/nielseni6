@@ -1,7 +1,7 @@
 
 # Ian E. Nielsen (*PhD Student*)
 
-Conducting eXplainable Artificial Intelligence (XAI) Research with an Emphasis on Computer Vision and Object Detection
+Conducting eXplainable Artificial Intelligence (XAI) Research with an Emphasis on Computer Vision and Object Detection [[LinkedIn](https://www.linkedin.com/in/ianenielsen/)] [[Scholar](https://scholar.google.com/citations?hl=en&user=hJd3fSUAAAAJ)]
 
 ### About Me
 I am a machine learning researcher and engineer with over 5 years of experience implementing and training state-of-the-art machine learning models. My particular expertise is in computer vision, with an emphasis on eXplainable Artificial Intelligence (XAI). 
