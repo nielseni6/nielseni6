@@ -1,5 +1,5 @@
 
-# Ian E. Nielsen (*PhD Student*)
+# Ian E. Nielsen (*PhD*)
 
 Conducting eXplainable Artificial Intelligence (XAI) Research with an Emphasis on Computer Vision and Object Detection [[LinkedIn](https://www.linkedin.com/in/ianenielsen/)] [[Scholar](https://scholar.google.com/citations?hl=en&user=hJd3fSUAAAAJ)]
 
