@@ -10,7 +10,7 @@ My research endeavors are driven by a commitment to enhancing the trustworthines
 
 ### Education
 
-- 2020-*Present* Henry M. Rowan College of Engineering, Rowan University Ph.D. in Electrical and Computer Engineering
+- 2020-2025 Henry M. Rowan College of Engineering, Rowan University Ph.D. in Electrical and Computer Engineering
 - 2016-2020 Henry M. Rowan College of Engineering, Rowan University B.S. in Electrical and Computer Engineering
 
 ### Publications (Google Scholar, ORCID)
