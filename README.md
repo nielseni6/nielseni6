@@ -4,7 +4,9 @@
 Conducting eXplainable Artificial Intelligence (XAI) Research with an Emphasis on Computer Vision, Object Detection, and Image Generation [[LinkedIn](https://www.linkedin.com/in/ianenielsen/)] [[Scholar](https://scholar.google.com/citations?hl=en&user=hJd3fSUAAAAJ)]
 
 ### About Me
-I am a machine learning researcher and engineer with over 6 years of experience implementing, developing, and training state-of-the-art machine learning models. My expertise is in computer vision, LLMs, and generative image/video models. Much of my research focuses on eXplainable Artificial Intelligence (XAI), which gives me a unique insight into the inner workings of black-box machine learning algorithms. I enjoy using these visually intuitive explanations of complex machine learning models to create AI models that are interpretable, trustworthy, and reliable. This includes creating inherently interpretable models, and using XAI as a tool to debug and enhance models through novel architecture and training schema.
+AI and machine learning engineer/researcher with 6+ years of experience developing and deploying state-of-the-art ML models. Expertise in computer vision, LLMs, generative AI, and eXplainable AI (XAI). Proven track record of building production pipelines, publishing in top IEEE venues, and leading research teams. PhD in Electrical & Computer Engineering.
+
+Check out my free AI safety game called JailBreak! Try to trick an AI into revealing sensitive information. You might just learn how fallable current AI models can be. Game in my starred repos.
 
 ### Education
 
