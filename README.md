@@ -6,7 +6,7 @@ Researching AI Safety, LLM Evaluation, and Generative AI, with a Foundation in e
 ### About Me
 AI and machine learning engineer/researcher with 6+ years of experience developing and deploying state-of-the-art ML models. Expertise in computer vision, LLMs, generative AI, and eXplainable AI (XAI). Proven track record of building production pipelines, publishing in top IEEE venues, and leading research teams. PhD in Electrical & Computer Engineering. Most recently a founding researcher at 2nd Set AI, building generative image/video pipelines and evaluation benchmarks. BlueDot Impact Technical AI Safety graduate.
 
-Check out my free AI safety game called JailBreak! Try to trick an AI into revealing sensitive information. You might just learn how fallable current AI models can be. Game in my starred repos.
+Check out my free AI safety game called JailBreak! Try to trick an AI into revealing sensitive information. You might just learn how fallable current AI models can be. Game in my pinned repos.
 
 ### Current Projects
 
